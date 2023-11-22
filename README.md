@@ -8,7 +8,8 @@ A Python program running in a server that connects to some equipment by COM port
 
 RmtCom
 A QT(/QML) Program running in Windows. Just like some Com Tools(such as dock light), the difference is that this program can send data to and receive data from the server's COM port while having a net connection to the Comproxy.
-![RmtCom](https://github.com/bobovmt/RemoteCOM/assets/88587617/805f1ca4-a469-4a4f-bec7-79590f7fa32e)
+![RmtCom](https://github.com/bobovmt/RemoteCOM/assets/88587617/80a8b891-9286-4413-8817-e1f70c67e98f)
+
 ## 项目简介
 ComProxy ：串口代理，后台运行通过tcp转发串口报文。
 ##  编写目的
