@@ -1,4 +1,11 @@
 # RemoteCOM
+RemoteCOM
+Operate COM Ports on Remote Server Through Net Connect
+
+ComProxy
+A Python program running in a server that connects to some equipment by COM ports
+
+A QT(/QML) Program running in windows. Just like some Com Tools(such as dock light), the difference is that this program can send data to and receive data from the server's COM port while having a net connect to the Comproxy.
 ## 项目简介
 ComProxy ：串口代理，后台运行通过tcp转发串口报文。
 ##  编写目的
@@ -8,4 +15,4 @@ ComProxy ：串口代理，后台运行通过tcp转发串口报文。
 用户如果想调试串口，我这也写了一个QML界面的工具（RmtCom），可以像普通串口助手一样读写远程串口。
 用户也可以根据tcp通信协议开发自己的应用程序去操作远程串口设备。
 ## 语言和包
-Python，serial ，Timer，socket，json，sys，threading
+Python， serial，Timer， socket，json， sys， threading
