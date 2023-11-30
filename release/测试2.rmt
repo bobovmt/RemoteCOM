@@ -1,0 +1,15 @@
+[Cmd 1]
+点亮顶灯
+EE A0 DF 01 02 56 FE
+[Cmd 2]
+EMV白灯亮
+EE A0 DF 01 02 AA FE
+[Cmd 3]
+EMV红灯亮
+EE A0 DF 01 02 76 FE
+[Cmd 4]
+EMV红灯亮2
+EE A0 DF 01 02 BB FE
+[Cmd 5]
+EMV红灯亮2
+EE A0 DF 01 02 BB FE
